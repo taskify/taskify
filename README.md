@@ -24,4 +24,6 @@ The search hub is a way to search through your tasks, and become connected to ot
 
 Code will be made available in a new repo.
 
+Alpha demo available at http://taskify.org/ please see the wiki for more documnetation
+
 All code will be made availble under the MIT open source license.
