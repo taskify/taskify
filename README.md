@@ -26,6 +26,10 @@ The search hub is a way to search through your tasks, and become connected to ot
 
 Code will be made available in a new repo.
 
+Drivers will be able to transform between different formats
+
+Bots will be able to help out with all sorts of tasks
+
 Alpha demo available at http://taskify.org/ please see the wiki for more documnetation
 
 All code will be made availble under the MIT open source license.
