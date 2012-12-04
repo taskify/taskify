@@ -1,12 +1,14 @@
 Taskify
 =======
 
-Taskify is composed of 4 modular components:
+Taskify is composed of 6 modular components:
 
 - Taskify UI
 - Taskify Data Server
 - Taskify Payments Server
 - Taskify Hub
+- Taskify Drivers
+- Taskify Bots
 
 The first UI will be built purely in client side javascript and is available at:
 
@@ -27,3 +29,5 @@ Code will be made available in a new repo.
 Alpha demo available at http://taskify.org/ please see the wiki for more documnetation
 
 All code will be made availble under the MIT open source license.
+
+Please feel to join us on our mailing list and W3C Community Group : http://lists.w3.org/Archives/Public/public-d-tasks/
