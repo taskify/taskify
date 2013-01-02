@@ -1,3 +1,5 @@
+#Taskify Architecture
+
 ![Taskify Architecture](https://raw.github.com/taskify/taskify.github.com/master/images/taskify-arch.png)
 
 Taskify is composed of 6 modular components:
@@ -5,7 +7,7 @@ Taskify is composed of 6 modular components:
 - Taskify UI
 - Taskify Data Server
 - Taskify Payments Server
-- Taskify Hub
+- Taskify Search Engine and Portal
 - Taskify Drivers
 - Taskify Bots
 
