@@ -1,3 +1,6 @@
 [submodule "d"]
 	path = d
 	url = git@github.com:taskify/rww.io.git
+[submodule "c"]
+	path = c
+	url = git@github.com:taskify/taskify-credits
