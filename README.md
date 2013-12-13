@@ -36,3 +36,5 @@ Alpha demo available at http://taskify.org/ please see the wiki for more documne
 All code will be made availble under the LGPL open source license.
 
 Please feel to join us on our mailing list and W3C Community Group : http://lists.w3.org/Archives/Public/public-d-tasks/
+
+[![tip for next commit](http://tip4commit.com/projects/27.svg)](http://tip4commit.com/projects/27)
