@@ -1,5 +1,7 @@
 #Taskify Architecture
 
+[![Join the chat at https://gitter.im/taskify/taskify](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/taskify/taskify?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![Taskify Architecture](https://raw.github.com/taskify/taskify.github.com/master/images/taskify-arch.png)
 
 Taskify is composed of 6 modular components:
