@@ -33,7 +33,7 @@ Drivers will be able to transform between different formats
 
 Bots will be able to help out with all sorts of tasks
 
-Alpha demo available at http://taskify.org/ please see the wiki for more documnetation
+Alpha demo available at http://taskify.org/ please see the wiki for more documentation
 
 All code will be made availble under the LGPL open source license.
 
